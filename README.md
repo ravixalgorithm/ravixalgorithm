@@ -6,6 +6,5 @@
 
   
 <a href="https://app.daily.dev/ravixalgorithm"><img src="https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=default&r=4j6" width="356" alt="Mr. Algorithm's Dev Card"/></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ravixalgorithm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravixalgorithm?trk=profile-badge">Ravi Pratap Singh</a></div>
               
 
