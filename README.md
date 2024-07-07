@@ -6,5 +6,6 @@
 
   
 <a href="https://app.daily.dev/ravixalgorithm"><img src="https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=default&r=4j6" width="356" alt="Mr. Algorithm's Dev Card"/></a>
+<iframe src="https://ravixalgorithm.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
               
 
