@@ -1,22 +1,175 @@
-- Hello there, I go by the name of Mr Algorithm and my real name is Ravi Pratap Singh 
-- Currently, I am learning JAVA and DSA, Web Development, Cyber Security, and Generative AI. 
-- I am interested in collaborating on Open Source Projects. 
-- You can reach out to me on LinkedIn. 
-- Thank you!
+[![Mr. Algorithm's Dev Card](https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=default&r=4j6)](https://app.daily.dev/ravixalgorithm)
 
-  
-<a href="https://app.daily.dev/ravixalgorithm"><img src="https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=default&r=4j6" width="356" alt="Mr. Algorithm's Dev Card"/></a>
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h1 align="center">Hi
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvxY-p-zIH_CKlDo1JhL0auyPLAxvcuACMQ&s" width="28px"/>, I'm Ravi Pratap Singh</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+
+-details-
+
 </h2>
+
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
-              
+<img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
+-about-
+
+<details>
+ <summary>
+    <h2>
+      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
+    Resume
+    </h2>
+  </summary>
+
+  <details>
+    <summary>
+      <h4>
+        <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/academics.gif" width="29"/>
+        Academics
+      </h4>
+    </summary>
+    <span>
+      <img src="https://img.shields.io/badge/B.Tech-Harcourt Butler Technical University-1877F2?style=for-the-badge">
+    </span>
+    <span>
+      <img src="https://img.shields.io/badge/GPA-7.272-EFEEE9?style=for-the-badge">
+    </span>
+  </details>
+
+  <details>
+    <summary>
+      <h4>
+        <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/>
+        Experience
+      </h4>
+    </summary>- **[Your Role] ** at [Company] | [Duration] - [Work Description]
+  </details>
+</details>
+
+<details>
+  <summary>
+    <h4>
+      <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/>
+      Coding Handles
+    </h4>
+  </summary>
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ravixalgorithm/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ravixalgorithm)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=#35914c)](https://www.geeksforgeeks.org/user/ravixalgorithm/)
+
+</details>
+
+<details>
+  <summary>
+    <h4>
+      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/techstack.gif" width="29"/>
+      Tech Stack
+    </h4>
+  </summary>
+
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</details>
+
+<details>
+  <summary>
+    <h4>
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/>
+      Projects
+    </h4>
+  </summary>
+
+####
+
+  <a href="[Project-url]">[Project Name]</a>
+  <span>
+    <img src="badge for technology used">
+  </span>
+
+- Details
+
+</details>
+
+<details>
+  <summary>
+    <h2>
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/>
+      Stats
+    </h2>
+  </summary>
+
+### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+<span>
+  <img src="https://img.shields.io/badge/Total_Merged_PRs-2-1877F2?style=for-the-badge">
+</span>
+
+
+1. 🥳 Merged PR - [27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
+2. 🥳 Merged PR - [4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
+
+### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+
+<!-- 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url]) -->
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+  <br/>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ravixalgorithm&theme=tokyonight&hide_border=false)
+
+  <br/>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  <br/>
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
+
+</div>
+
+</details>
+
+### Leetcode
+<div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/ravixalgorithm?theme=auto&font=baloo&extension=null)
+
+</div>
+
+### Codeforces
+<div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
+
+</div>
+<details>
+  <summary>
+    <h2>
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> 
+      Contact Me
+    </h2>
+  </summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
+
+### Spotify Recently Played
+
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=h83azb9zgg4ywyfd0ekva2yuf)
+
+### Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
