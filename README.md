@@ -100,7 +100,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
 
-<div align="center">
+<div align="center" style="display:inline-block">
 
   ![](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
