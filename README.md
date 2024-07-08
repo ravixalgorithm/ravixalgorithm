@@ -81,7 +81,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 </details>
 
 <h2>
-  <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.png" width="32"/>
+  <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/stats.png" width="32"/>
   Stats
 </h2>
 
