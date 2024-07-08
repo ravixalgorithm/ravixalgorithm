@@ -20,50 +20,63 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
 -about-
 
+<!-- Resume -->
 <details>
- <summary>
-    <h2>
+  <summary>
+    <h1>
       <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
     Resume
-    </h2>
+    </h1>
   </summary>
 
-  <h4>
+  <!-- Academics -->
+  <h3>
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/academics.png" width="29"/>
     Academics
-  </h4>
+  </h3>
   <span>
     <img src="https://img.shields.io/badge/B.Tech-Harcourt Butler Technical University-1877F2?style=for-the-badge">
   </span>
   <span>
-    <img src="https://img.shields.io/badge/GPA-7.272-EFEEE9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/CGPA-7.272-EFEEE9?style=for-the-badge">
   </span>
-  <h4>
+
+  <!-- Experience -->
+  <h3>
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
-  </h4>
+  </h3>
   - **[Your Role] ** at [Company] | [Duration] - [Work Description]
 </details>
 
-
-<h2>
+<!-- Coding handles -->
+<h1>
   <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/>
   Coding Handles
-</h2>
+</h1>
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ravixalgorithm/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ravixalgorithm)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=#35914c)](https://www.geeksforgeeks.org/user/ravixalgorithm/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ravixalgorithm/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ravixalgorithm)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=#35914c)](https://www.geeksforgeeks.org/user/ravixalgorithm/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ravixalgorithm)
+[![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ravixalgorithm)
 
 <!-- Tech Stack -->
-<h2>
+<h1>
   <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/techstack.png" width="29"/>
   Tech Stack
-</h2>
+</h1>
+<h3>language</h3>
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py)]()
+
+<h3>Development</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
+
+<h3>Software</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,pr,notion,git,figma)]()
 
 <details>
   <summary>
@@ -129,15 +142,18 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 <div align="center">
 
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
-
 </div>
 
+<!-- Socials -->
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravixalgorithm/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravixalgorithm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravixalgorithm)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ravixalgorithm)
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ravixalgorithm)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ravixalgorithm/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ravixalgorithm)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22982248/ravixalgorithm)
 
+<!-- Quotes -->
 ### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
