@@ -1,4 +1,6 @@
-<a href="https://app.daily.dev/ravixalgorithm"><img src="https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=wide&r=5h7" width="652" alt="Mr. Algorithm's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/ravixalgorithm"><img src="https://api.daily.dev/devcards/v2/eNnDdhwePHpxspL2Se3FJ.png?type=wide&r=5h7" width="652" alt="Mr. Algorithm's Dev Card"/></a>
+</div>
 
 <h1 align="center">Hi
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvxY-p-zIH_CKlDo1JhL0auyPLAxvcuACMQ&s" width="28px"/>, I'm Ravi Pratap Singh</h1>
