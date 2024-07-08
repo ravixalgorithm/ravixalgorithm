@@ -96,7 +96,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 1. 🥳 Merged PR - [27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
 2. 🥳 Merged PR - [4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
 
-### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/recent.png"  width="25"/> Recent Activity
 
 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
 
@@ -111,7 +111,6 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
 
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
