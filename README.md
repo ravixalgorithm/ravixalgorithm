@@ -118,7 +118,7 @@
 
 ### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
-<!-- 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url]) -->
+1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
 
 <div align="center">
 
@@ -138,6 +138,13 @@
 
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 </details>
 
 ### Leetcode
@@ -153,25 +160,15 @@
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
 
 </div>
-<details>
-  <summary>
-    <h2>
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> 
-      Contact Me
-    </h2>
-  </summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
-
-### Spotify Recently Played
 
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=h83azb9zgg4ywyfd0ekva2yuf)
+### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravixalgorithm/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravixalgorithm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravixalgorithm)
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ravixalgorithm)
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ravixalgorithm)
+
 
 ### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
