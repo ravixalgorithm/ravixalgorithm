@@ -124,6 +124,8 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ravixalgorithm&theme=onedark)](https://github.com/ravixalgorithm/github-profile-trophy)
+
 </div>
 
 <picture>
