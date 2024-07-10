@@ -111,6 +111,15 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 3. 🥳 Merged PR - [7119](https://github.com/processing/p5.js/pull/7119) - [processing/p5.js](https://github.com/processing/p5.js)
 4. 🥳 Merged PR - [545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
 
+### ✅ Total issues created
+<!--Start Count Issues Created-->
+<span>
+  <img src="https://img.shields.io/badge/Total_Issues_created-2-1877F2?style=for-the-badge">
+</span>
+
+1. Issue created - [164](https://github.com/python-gsoc/python-gsoc.github.io/issues/164) - [python-gsoc/python-gsoc.github.io](https://github.com/python-gsoc/python-gsoc.github.io) - Status - Open
+2. Issue created - [7118](https://github.com/processing/p5.js/issues/7118) - [processing/p5.js](https://github.com/processing/p5.js) - Status - Closed
+
 ### <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/recent.png"  width="25"/> Recent Activity
 
 1. 🗣 Commented on [[issue-no]]([issue-url]) in [repo-path-name]([repo-url])
