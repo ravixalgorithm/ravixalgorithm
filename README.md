@@ -102,12 +102,14 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
 <span>
-  <img src="https://img.shields.io/badge/Total_Merged_PRs-2-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Merged_PRs-4-1877F2?style=for-the-badge">
 </span>
 
 
 1. 🥳 Merged PR - [27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
 2. 🥳 Merged PR - [4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
+3. 🥳 Merged PR - [7119](https://github.com/processing/p5.js/pull/7119) - [processing/p5.js](https://github.com/processing/p5.js)
+4. 🥳 Merged PR - [545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
 
 ### <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/recent.png"  width="25"/> Recent Activity
 
@@ -124,7 +126,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ravixalgorithm&theme=onedark)](https://github.com/ravixalgorithm/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ravixalgorithm&theme=onedark)
 
 </div>
 
