@@ -198,3 +198,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 <!-- Quotes -->
 ### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!-- Ezoic - bottom_of_page - bottom_of_page -->
+<div id="ezoic-pub-ad-placeholder-103"> </div>
+<!-- End Ezoic - bottom_of_page - bottom_of_page -->
