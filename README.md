@@ -141,6 +141,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 
 1. 🗣 Commented on [issue #7118](https://github.com/processing/p5.js/issues/7118) in [processing/p5.js](https://github.com/processing/p5.js)
 2. 🗣 Commented on [issue #534](https://github.com/breck7/pldb/issues/534) in [breck7/pldb](https://github.com/breck7/pldb)
+3. 🗣 Commented on [issue #8179](https://github.com/videojs/video.js/issues/8179) in [videojs/video.js](https://github.com/videojs/video.js)
 
 <!--Github Stats-->
 ### Github Stats
