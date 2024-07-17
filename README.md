@@ -22,7 +22,7 @@ Google CyberSecurity Scholar @GrowWithGoogle | Open Source | JAVA, DSA | FIGMA, 
 <!--About-->
 <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
+Targeting GSOC'25 and Other Open source Events, love attending the conferences, love doing Crazy Stuffs
 
 
 <!-- Resume -->
@@ -53,7 +53,7 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
-  - **[Your Role] ** at [Company] | [Duration] - [Work Description]
+  - Student Ambassador at LetsUpgrade | Jun-2024 - Jul-2024 - [Marketing, Social Media, Networking]
 </details>
 
 
@@ -130,10 +130,11 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
   <img src="https://img.shields.io/badge/Total_Merged_PRs-4-1877F2?style=for-the-badge">
 </span>
 
-1. 🥳 Merged PR - [27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
-2. 🥳 Merged PR - [4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
-3. 🥳 Merged PR - [7119](https://github.com/processing/p5.js/pull/7119) - [processing/p5.js](https://github.com/processing/p5.js)
-4. 🥳 Merged PR - [545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
+1. 🥳 Opened PR - [#27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
+2. 🥳 Merged PR - [#4754](https://github.com/microsoft/STL/pull/4754) - [microsoft/STL](https://github.com/microsoft/STL)
+3. 🥳 Merged PR - [#7119](https://github.com/processing/p5.js/pull/7119) - [processing/p5.js](https://github.com/processing/p5.js)
+4. 🥳 Merged PR - [#545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
+5. 🥳 Opened PR - [#193](https://github.com/videojs/videojs.com/pull/193#) - [videojs/videojs.com](https://github.com/videojs/videojs.com)
 
 
 <!--Total Issues created-->
@@ -143,8 +144,9 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
   <img src="https://img.shields.io/badge/Total_Issues_created-2-1877F2?style=for-the-badge">
 </span>
 
-1. Issue created - [164](https://github.com/python-gsoc/python-gsoc.github.io/issues/164) - [python-gsoc/python-gsoc.github.io](https://github.com/python-gsoc/python-gsoc.github.io) - Status - Open
-2. Issue created - [7118](https://github.com/processing/p5.js/issues/7118) - [processing/p5.js](https://github.com/processing/p5.js) - Status - Closed
+1. Issue created - [#164](https://github.com/python-gsoc/python-gsoc.github.io/issues/164) - [python-gsoc/python-gsoc.github.io](https://github.com/python-gsoc/python-gsoc.github.io) - Status - Open
+2. Issue created - [#7118](https://github.com/processing/p5.js/issues/7118) - [processing/p5.js](https://github.com/processing/p5.js) - Status - Closed
+3. Issue Resolved - [#4](https://github.com/CodeLog-Development/uncube/issues/4) - [CodeLog-Development/uncube](https://github.com/CodeLog-Development/uncube) - Status - Closed
 
 
 <!--Recent Activities-->
@@ -155,9 +157,13 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
 3. 🗣 Commented on [issue #8179](https://github.com/videojs/video.js/issues/8179) in [videojs/video.js](https://github.com/videojs/video.js)
 
 <!--Github Stats-->
-### Github Stats
-<div align="center" style="display:inline-block">
+<details>
+  <summary>
+    <h2>Github Stats</h2>
+  </summary>
 
+  <div align="center" style="display:inline-block">
+  
   ![stats](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=ravixalgorithm&theme=tokyonight&hide_border=false)
@@ -168,16 +174,15 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ravixalgorithm&theme=onedark)
 
-</div>
-
-
-<!--snake graph-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
-  <img alt="github-snake" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
-</picture>
-
+  <!--snake graph-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
+    <img alt="github-snake" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/github-user-contribution.svg" />
+  </picture>
+  
+  </div>
+</details>
 
 <!--Leetcode stats-->
 ### Leetcode
@@ -187,7 +192,6 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
 
 </div>
 
-
 <!--Codechef stats-->
 ### Codeforces
 <div align="center">
@@ -195,11 +199,6 @@ Targeting GSOC'25, love attending conference, love doing Crazy Stuffs
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
 </div>
 
-
 <!-- Quotes -->
 ### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<!-- Ezoic - bottom_of_page - bottom_of_page -->
-<div id="ezoic-pub-ad-placeholder-103"> </div>
-<!-- End Ezoic - bottom_of_page - bottom_of_page -->
