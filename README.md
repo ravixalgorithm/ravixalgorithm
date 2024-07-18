@@ -163,14 +163,19 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
   </summary>
 
   <div align="center" style="display:inline-block">
+
   
   ![stats](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
+  
   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=ravixalgorithm&theme=tokyonight&hide_border=false)
+
 
   ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
   ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ravixalgorithm&theme=tokyo-night)
+
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ravixalgorithm&theme=onedark)
 
