@@ -30,7 +30,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
   <summary>
     <h1>
       <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
-    Resume
+    Resume (Click Here)
     </h1>
   </summary>
 
@@ -53,6 +53,8 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
+  - Aspire Leader 2024 at Aspire Institute, Harvard University | Apr-2024 - Present - [Communication, Personal Development, Networking]
+  - Ambassador at Viral Fission | Apr-2024 - Present - [Social Media, Networking, Content Creation]
   - Student Ambassador at LetsUpgrade | Jun-2024 - Jul-2024 - [Marketing, Social Media, Networking]
 </details>
 
@@ -104,7 +106,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
   <summary>
     <h2>
       <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/projects.png" width="29"/>
-      Projects
+      Projects (Click Here)
     </h2>
   </summary>
   <a href="[Project-url]">[Project Name]</a>
@@ -117,10 +119,10 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 
 <!--Stats-->
-<h2>
+<h1>
   <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/stats.png" width="32"/>
   Stats
-</h2>
+</h1>
 
 
 <!--Merged PRs-->
@@ -160,7 +162,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 <!--Github Stats-->
 <details>
   <summary>
-    <h2>Github Stats (Click Here)</h2>
+    <h1>Github Stats (Click Here)</h1>
   </summary>
 
   <div align="center" style="display:inline-block">
