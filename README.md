@@ -40,12 +40,12 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/academics.png" width="29"/>
     Academics
   </h3>
-  <span>
+  <div>
     <img src="https://img.shields.io/badge/B.Tech-Harcourt Butler Technical University-1877F2?style=for-the-badge">
-  </span>
-  <span>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/CGPA-7.272-EFEEE9?style=for-the-badge">
-  </span>
+  </div>
 
 
   <!-- Experience -->
@@ -53,14 +53,19 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
+  
   - Aspire Leader 2024 at Aspire Institute, Harvard University | Apr-2024 - Present - [Communication, Personal Development, Networking]
+  
   - Ambassador at Viral Fission | Apr-2024 - Present - [Social Media, Networking, Content Creation]
+    
   - Student Ambassador at LetsUpgrade | Jun-2024 - Jul-2024 - [Marketing, Social Media, Networking]
 </details>
 
 
 <!-- Socials -->
 # Socials
+<h6>(Click on the badges to see the profiles)</h6>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravixalgorithm/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravixalgorithm)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravixalgorithm)
@@ -74,13 +79,16 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 <h1>
   <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/>
   Coding Handles
+  
 </h1>
+<h6>(Click on the badges to see the profiles)</h6>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ravixalgorithm/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ravixalgorithm)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=#35914c)](https://www.geeksforgeeks.org/user/ravixalgorithm/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ravixalgorithm)
 [![Coding Ninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ravixalgorithm)
+
 
 
 <!-- Tech Stack -->
