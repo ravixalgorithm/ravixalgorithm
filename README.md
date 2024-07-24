@@ -135,7 +135,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 3. 🥳 Merged PR - [#7119](https://github.com/processing/p5.js/pull/7119) - [processing/p5.js](https://github.com/processing/p5.js)
 4. 🥳 Merged PR - [#545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
 5. 🥳 Opened PR - [#193](https://github.com/videojs/videojs.com/pull/193#) - [videojs/videojs.com](https://github.com/videojs/videojs.com)
-6. 🥳 Opened PR - [#104](https://github.com/CodeLog-Development/uncube/pull/104) - [CodeLog-Development/uncube](https://github.com/CodeLog-Development/uncube)
+6. 🥳 Merged PR - [#104](https://github.com/CodeLog-Development/uncube/pull/104) - [CodeLog-Development/uncube](https://github.com/CodeLog-Development/uncube)
 
 
 <!--Total Issues created-->
