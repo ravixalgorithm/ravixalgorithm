@@ -134,7 +134,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
 <span>
-  <img src="https://img.shields.io/badge/Total_Merged_PRs-6-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Merged_PRs-7-1877F2?style=for-the-badge">
 </span>
 
 1. 🥳 Opened PR - [#27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
@@ -143,6 +143,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 4. 🥳 Merged PR - [#545](https://github.com/breck7/pldb/pull/545) - [breck7/pldb](https://github.com/breck7/pldb)
 5. 🥳 Opened PR - [#193](https://github.com/videojs/videojs.com/pull/193#) - [videojs/videojs.com](https://github.com/videojs/videojs.com)
 6. 🥳 Merged PR - [#104](https://github.com/CodeLog-Development/uncube/pull/104) - [CodeLog-Development/uncube](https://github.com/CodeLog-Development/uncube)
+7. 🥳 Merged PR - [#1](https://github.com/Open-Dev-Society/demo-repository/pull/1) - [Open-Dev-Society/demo-repository](https://github.com/Open-Dev-Society/demo-repository)
 
 
 <!--Total Issues created-->
