@@ -217,4 +217,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 <!-- Quotes -->
 ### Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
