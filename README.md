@@ -8,7 +8,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Ravi+Pratap+Singh+!;" />
 </h1>
-<h2>
+<h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   
   [![wakatime](https://wakatime.com/badge/user/ec7c4227-309f-473e-aed9-683f8c591ab0.svg)](https://wakatime.com/@ec7c4227-309f-473e-aed9-683f8c591ab0)
