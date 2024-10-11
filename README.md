@@ -172,7 +172,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
     <h1>Github Stats (Click Here)</h1>
   </summary>
 
-  <div align="center" style="display:inline-block">
+  <div align="center">
 
   
   ![stats](https://github-readme-stats.vercel.app/api?username=ravixalgorithm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
@@ -205,13 +205,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/ravixalgorithm?theme=auto&font=baloo&extension=null)
 
-</div>
-
-<!--Codechef stats-->
-### Codeforces
-<div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
 </div>
 
 <!-- Quotes -->
