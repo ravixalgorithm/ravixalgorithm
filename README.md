@@ -215,6 +215,8 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ravixalgorithm)
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h83azb9zgg4ywyfd0ekva2yuf&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- Quotes -->
 ### Quotes
 <div align="center">
