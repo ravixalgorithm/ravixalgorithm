@@ -134,7 +134,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
 <span>
-  <img src="https://img.shields.io/badge/Total_Merged_PRs-7-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Merged_PRs-11-1877F2?style=for-the-badge">
 </span>
 
 1. 🥳 Opened PR - [#27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
@@ -150,7 +150,7 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 ### ✅ Total issues created
 <!--Start Count Issues Created-->
 <span>
-  <img src="https://img.shields.io/badge/Total_Issues_created-3-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Issues_created-7-1877F2?style=for-the-badge">
 </span>
 
 1. Issue created - [#164](https://github.com/python-gsoc/python-gsoc.github.io/issues/164) - [python-gsoc/python-gsoc.github.io](https://github.com/python-gsoc/python-gsoc.github.io) - Status - Open
