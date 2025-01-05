@@ -196,9 +196,14 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 <!-- Quotes -->
 ### Quotes
-<div flex>
-    
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h83azb9zgg4ywyfd0ekva2yuf&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center"
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<!-- My Spotify -->
+### See What I'm Listening to...
+<div align="center"
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h83azb9zgg4ywyfd0ekva2yuf&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
