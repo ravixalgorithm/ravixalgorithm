@@ -99,11 +99,11 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
 
 <h3>Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,tailwind,vite,vercel)]()
 
 <h3>Software</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,pr,notion,git,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,pr,notion,git,github,figma,gmail,stackoverflow)]()
 
 
 <!--Projects-->
