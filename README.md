@@ -198,14 +198,6 @@ Targeting GSOC'25 and Other Open source Events, love attending the conferences, 
   </div>
 </details>
 
-<!--Leetcode stats-->
-### Leetcode
-<div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/ravixalgorithm?theme=auto&font=baloo&extension=null)
-
-</div>
-
 <!-- Quotes -->
 ### Quotes
 <div align="center">
