@@ -1,6 +1,6 @@
 <!--Intro-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&color=F78C3D&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor+by+♥;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=40&center=true&color=F78C3D&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor+by+♥;" />
 </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=388697&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -10,16 +10,14 @@
 </h2>
 
 <!--About-->
-<img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=40&color=9FF7B8&duration=1&pause=100000000000000&width=500&lines=About+Me;" />
 
-<h4>Learning new skills, attending tech conferences, and writing articles at Dev.to, Substack, CoderLegion.</h4>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=25&color=FFFFFF&duration=1&pause=100000000000000&width=900&lines=Learning+new+skills+attending+tech+conferences+and+writing+articles+at+Dev.to+Substack+CoderLegion;" />
 
 <!-- Resume -->
 <details>
   <summary>
     <h1>
-      <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
     Academics/Experience (click here)
     </h1>
   </summary>
