@@ -7,7 +7,7 @@
   
   [![wakatime](https://wakatime.com/badge/user/ec7c4227-309f-473e-aed9-683f8c591ab0.svg)](https://wakatime.com/@ec7c4227-309f-473e-aed9-683f8c591ab0)
   
-Targeting GSOC'25 and Other Open Source Events, Open Source Contributor
+Open Source Contributor by ♥
 </h2>
 
 <!--About-->
