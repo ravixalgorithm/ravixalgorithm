@@ -1,6 +1,6 @@
 <!--Intro-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Ravi+Pratap+Singh+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor;" />
 </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=388697&style=for-the-badge" alt="Profile Views" style="height:21px;">
