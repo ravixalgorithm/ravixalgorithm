@@ -43,8 +43,11 @@ Learning new skills, attending tech conferences and writing articles at Dev.to S
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
+  - Founder at Open Dev Society | Aug-2024 - Present
   
-  - Aspire Leader 2024 at Aspire Institute, Harvard University | Apr-2024 - Present - [Communication, Personal Development, Networking]
+  - Ui/Ux & Web Development Head at Codextream Community | Oct-2024 - Present - [Teaching, Mentoring]
+  
+  - Community Leader, Kanpur at Aspire Institute, Harvard University | Oct-2024 - Present - [Communication, Personal Development, Networking, Event Management, Outreach]
   
   - Ambassador at Viral Fission | Apr-2024 - Present - [Social Media, Networking, Content Creation]
     
