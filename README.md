@@ -1,19 +1,18 @@
 <!--Intro-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&color=F78C3D&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor+by+♥;" />
 </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=388697&style=for-the-badge" alt="Profile Views" style="height:21px;">
   
   [![wakatime](https://wakatime.com/badge/user/ec7c4227-309f-473e-aed9-683f8c591ab0.svg)](https://wakatime.com/@ec7c4227-309f-473e-aed9-683f8c591ab0)
   
-Open Source Contributor by ♥
 </h2>
 
 <!--About-->
 <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-Learning new skills, attending tech conferences, and writing articles at Dev.to, Substack, CoderLegion.
+<h4>Learning new skills, attending tech conferences, and writing articles at Dev.to, Substack, CoderLegion.</h4>
 
 
 <!-- Resume -->
