@@ -13,7 +13,7 @@ Open Source Contributor by ♥
 <!--About-->
 <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-Targeting GSOC'25 and Other Open source Events, love attending the conferences, love doing Crazy Stuffs
+Learning new skills, attending tech conferences, and writing articles at Dev.to, Substack, CoderLegion.
 
 
 <!-- Resume -->
