@@ -21,7 +21,7 @@ Learning new skills, attending tech conferences, and writing articles at Dev.to,
   <summary>
     <h1>
       <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/about.png" width="37" />
-    Resume (Click Here)
+    Academics/Experience (click here)
     </h1>
   </summary>
 
