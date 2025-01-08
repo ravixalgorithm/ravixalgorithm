@@ -43,6 +43,7 @@ Learning new skills, attending tech conferences and writing articles at Dev.to S
     <img align="center" src="https://github.com/ravixalgorithm/ravixalgorithm/blob/main/icons/experience.png" width="29"/>
     Experience
   </h3>
+  
   - Founder at Open Dev Society | Aug-2024 - Present
   
   - Ui/Ux & Web Development Head at Codextream Community | Oct-2024 - Present - [Teaching, Mentoring]
