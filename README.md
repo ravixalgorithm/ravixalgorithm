@@ -32,10 +32,13 @@ Learning new skills, attending tech conferences, and writing articles at Dev.to,
     Academics
   </h3>
   <div>
-    <img src="https://img.shields.io/badge/B.Tech-Harcourt Butler Technical University-1877F2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Harcourt Butler Technical University-16C47F?style=for-the-badge">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/CGPA-7.272-EFEEE9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/B.Tech-Computer Science & Engineering-FFD65A?style=for-the-badge">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/CGPA-7.272-F93827?style=for-the-badge">
   </div>
 
 
