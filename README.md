@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Ravi+Pratap+Singh+!;" />
 </h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=388697&style=for-the-badge" alt="Profile Views" style="height:21px;">
   
   [![wakatime](https://wakatime.com/badge/user/ec7c4227-309f-473e-aed9-683f8c591ab0.svg)](https://wakatime.com/@ec7c4227-309f-473e-aed9-683f8c591ab0)
   
@@ -133,7 +133,7 @@ Learning new skills, attending tech conferences, and writing articles at Dev.to,
 ### ✅ Pull Requests
 <!--Start Count Merged PRs-->
 <span>
-  <img src="https://img.shields.io/badge/Total__PRs-11-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total__PRs-11-388697?style=for-the-badge">
 </span>
 
 1. 🥳 Opened PR - [#27](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot/pull/27) - [MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot](https://github.com/MicrosoftDocs/mslearn-challenge-project-create-mini-game-with-copilot)
@@ -154,7 +154,7 @@ Learning new skills, attending tech conferences, and writing articles at Dev.to,
 ### ✅ Total issues
 <!--Start Count Issues Created-->
 <span>
-  <img src="https://img.shields.io/badge/Total_Issues-9-1877F2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total_Issues-9-388697?style=for-the-badge">
 </span>
 
 1. Issue created - [#164](https://github.com/python-gsoc/python-gsoc.github.io/issues/164) - [python-gsoc/python-gsoc.github.io](https://github.com/python-gsoc/python-gsoc.github.io) - Status - Closed
