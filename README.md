@@ -98,7 +98,7 @@ Learning new skills, attending tech conferences and writing articles at Dev.to S
 
 <h3>Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,tailwind,vite,vercel)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,tailwind,vite,vercel,netlify)]()
 
 <h3>Software</h3>
 
