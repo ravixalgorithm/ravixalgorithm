@@ -11,7 +11,7 @@
 
 <!--About-->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=40&color=9FF7B8&duration=1&pause=100000000000000&width=500&lines=About+Me;" />
-Learning new skills, attending tech conferences and writing articles at Dev.to Substack CoderLegion.
+Learning, Failing, Trying New Things 😄.
 
 <!-- Resume -->
 <details>
