@@ -94,7 +94,7 @@ Learning, Failing, Trying New Things 😄.
 </h1>
 <h3>language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py)]()
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,c)]()
 
 <h3>Development</h3>
 
