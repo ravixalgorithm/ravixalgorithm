@@ -98,11 +98,11 @@ Learning, Failing, Trying New Things 😄.
 
 <h3>Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,tailwind,vite,vercel,netlify)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,pnpm,tailwind,sass,vite,vercel,netlify,nodejs,express,md,mongodb,mysql,nextjs,postman,supabase,)]()
 
 <h3>Software</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,pr,notion,git,github,figma,gmail,stackoverflow)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,pr,notion,git,github,figma,gmail,stackoverflow,bash,gmail,obsidian)]()
 
 
 <!--Projects-->
