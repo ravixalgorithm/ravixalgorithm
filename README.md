@@ -1,17 +1,4 @@
-<!--Intro-->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=40&center=true&color=F78C3D&vCenter=true&width=500&height=70&duration=3500&lines=I'm+Ravi+Pratap+Singh+!;+Open+Source+Contributor+by+♥;" />
-</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravixalgorithm&color=388697&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  
- [![wakatime](https://wakatime.com/badge/user/ec7c4227-309f-473e-aed9-683f8c591ab0.svg)](https://wakatime.com/@ec7c4227-309f-473e-aed9-683f8c591ab0)
-  
-</h2>
-
-<!--About-->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=40&color=9FF7B8&duration=1&pause=100000000000000&width=500&lines=About+Me;" />
-Learning, Failing, Trying New Things 😄.
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fravixalgorithm66a35.png?alt=media)
 
 <!-- Resume -->
 <details>
