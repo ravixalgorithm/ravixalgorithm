@@ -81,11 +81,11 @@
 </h1>
 <h3>language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,c)]()
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,c,ts)]()
 
 <h3>Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,pnpm,tailwind,sass,vite,vercel,netlify,nodejs,express,md,mongodb,mysql,nextjs,postman,supabase,)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,npm,pnpm,tailwind,sass,vite,vercel,netlify,nodejs,express,md,mongodb,mysql,nextjs,postman,supabase,nextjs)]()
 
 <h3>Software</h3>
 
