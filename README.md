@@ -1,4 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fravixalgorithm66a35.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fravixalgorithm854ec.png?alt=media)
 
 <!-- Resume -->
 <details>
