@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:3000/api/openreadme?n=Ravi&g=ravixalgorithm&x=ravixalgorithm&l=ravixalgorithm&i=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5603AQEYV5Z58t6l8A%2Fprofile-displayphoto-scale_400_400%2FB56ZnhgPOWHkAg-%2F0%2F1760424951727%3Fe%3D1762992000%26v%3Dbeta%26t%3DMKHu8SkrqGJ5rDg4ETT1hW5eFRDbi02iOv1YD0od9Es&p=github.com%2Fopen-dev-society&z=3ec09";
+const apiUrl = "http://openreadme.vercel.app/api/openreadme?n=Ravi&g=ravixalgorithm&x=ravixalgorithm&l=ravixalgorithm&i=&p=&z=0016e";
 /*
   This file is a template. We will prepend a runtime-generated
   const apiUrl = "..." line before serving it to the user.
@@ -6,8 +6,12 @@ const apiUrl = "http://localhost:3000/api/openreadme?n=Ravi&g=ravixalgorithm&x=r
 
 import https from 'node:https'
 import fs from 'node:fs'
+import path from 'node:path'
 
-const outPath = 'openreadme.png'
+// Write the image inside public so Next.js can serve it
+const outPath = process.env.OPENREADME_OUTPUT || 'public/openreadme.png'
+// Ensure output directory exists
+fs.mkdirSync(path.dirname(outPath), { recursive: true })
 
 function download(url: string, dest: string): Promise<void> {
   return new Promise((resolve, reject) => {
@@ -24,16 +28,40 @@ function download(url: string, dest: string): Promise<void> {
   })
 }
 
+// UI injects: const apiUrl = "https://your-domain/api/openreadme?...";
+// Do not change the injected apiUrl line.
+
 async function main() {
-  if (typeof apiUrl === 'undefined') {
-    throw new Error('apiUrl not injected')
+  try {
+    if (typeof apiUrl !== "string" || !apiUrl.startsWith("http")) {
+      throw new Error("Invalid apiUrl injected into get-openreadme.ts")
+    }
+
+    const res = await fetch(apiUrl, { method: "GET", cache: "no-store" })
+    if (!res.ok) {
+      throw new Error(`API request failed: ${res.status} ${res.statusText}`)
+    }
+
+    // Expect JSON like { ok: true, url: "https://..." }
+    const data: any = await res.json().catch(() => ({}))
+    if (data?.error) {
+      throw new Error(`API error: ${data.error}`)
+    }
+    console.log("OpenReadme refresh triggered:", data?.url ?? "(no url)")
+
+    // If an image URL is provided, download and overwrite the public file
+    const imageUrl: string | undefined = data?.url
+    if (typeof imageUrl === 'string' && imageUrl.startsWith('http')) {
+      console.log(`Downloading image to ${outPath} ...`)
+      await download(imageUrl, outPath)
+      console.log('Image updated.')
+    } else {
+      console.log('No image URL returned; nothing to download.')
+    }
+  } catch (err) {
+    console.error("[OpenReadme] Refresh failed:", err)
+    process.exit(1)
   }
-  console.log('Fetching image from:', apiUrl)
-  await download(apiUrl, outPath)
-  console.log('Saved to', outPath)
 }
 
-main().catch((e) => {
-  console.error(e)
-  process.exit(1)
-})
+main()
