@@ -1,15 +1,15 @@
-name: Update Open Readme image
+name: Update Open Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
-  workflow_dispatch: {}
+    - cron: "0 0 * * *" # daily at 00:00 UTC
 
 permissions:
   contents: write
 
 jobs:
-  update-image:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,19 +18,42 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
-      - name: Install dependencies
-        run: npm ci --ignore-scripts
+      - name: Install tsx runner
+        run: npm i -g tsx
 
-      - name: Fetch latest image
+      - name: Prepare runner script from template
+        shell: bash
         run: |
-          node get-openreadme.ts
+          : "${{ secrets.OPENREADME_API_URL?Set OPENREADME_API_URL secret to your production endpoint }}"
+          echo "const apiUrl = \"${{ secrets.OPENREADME_API_URL }}\";" > get-openreadme.ts
+          cat public/get-openreadme.ts.template >> get-openreadme.ts
 
-      - name: Commit updated image
+      - name: Refresh and download image
+        run: tsx get-openreadme.ts
+
+      - name: Commit and push updated image
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "chore(openreadme): update banner image" || echo "No changes to commit"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/openreadme.png
+          git commit -m "chore: update OpenReadme image [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Checkout images repo
+        uses: actions/checkout@v4
+        with:
+          repository: ravixalgorithm/openreadme-images
+          token: ${{ secrets.IMAGES_REPO_TOKEN }}
+          path: images-repo
+
+      - name: Update image and push
+        run: |
+          cp public/openreadme.png images-repo/path/to/openreadme.png
+          cd images-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update image [skip ci]" || echo "No changes"
           git push
