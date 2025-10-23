@@ -1,1 +1,1 @@
-![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/fad62070c0e0-b3565ccd.png)
+![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/fad62070c0e0-754131ef.png)
