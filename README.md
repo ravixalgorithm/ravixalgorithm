@@ -1,5 +1,6 @@
+<sub>20 y/o fixing how AI reads the web | CS undergrad who skipped the script</sub>
 # Ravi Pratap Singh
-### [Founder @ Open Dev Society](https://github.com/Open-Dev-Society) | [Creator @ Onto](https://buildonto.dev)
+### [Founder @ Open Dev Society](https://github.com/Open-Dev-Society) | [Founder @ Onto](https://buildonto.dev)
 
 > **Status:** Building the infrastructure layer for the AI-native web.  
 > **Philosophy:** Knowledge should be free. Software should be agent-native.
@@ -11,7 +12,7 @@
 | Project | Status | Impact |
 | :--- | :--- | :--- |
 | **[Onto](https://buildonto.dev)** | `v1.0-alpha` | Eliminating the "React Tax" for AI Agents. |
-| **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** | `Production` | 9,400+ Stars | 8,700+ Active Users. |
+| **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** | `Production` | 10,200+ Stars | 9,500+ Active Users. |
 | **[KineUI](https://kine-ui.vercel.app/)** | `Beta` | Spatial gesture interactions @ <16ms latency. |
 
 ---
@@ -20,15 +21,12 @@
 - **Total Stars:** 10,300+ across Open Dev Society repositories.
 - **Total Users:** 9,500+ monthly active users on open-source production tools.
 - **Recognition:** GitHub Trending (Global), featured on HelloGitHub.
-- **Validation:** Reviewed by YC-backed founders and industry leaders (Resend, Vercel).
+- **Validation:** Reviewed by YC-backed founders and industry leaders (Resend, Vercel, cloudflare).
 
 ---
 
 ### ✦ The Stack
-- **Languages:** JavaScript (ES6+), TypeScript, C++, Python.
-- **Frontend:** React, Next.js, Framer Motion, Tailwind CSS.
-- **Backend:** Node.js, Express, Supabase, PostgreSQL.
-- **Specialized:** Google MediaPipe (Wasm), LLM Content Negotiation, Edge Middleware.
+[![My Skills](https://skillicons.dev/icons?i=ts,next,supabase,vercel,vite,threejs,npm,docker,cloudflare,c,bash,ubuntu)](https://skillicons.dev)
 
 ---
 
