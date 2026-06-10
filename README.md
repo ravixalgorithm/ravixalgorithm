@@ -12,10 +12,10 @@
 | **[KineUI](https://kine-ui.vercel.app/)** | `Beta` | Spatial gesture interactions @ <16ms latency. |
 
 #### ✦ Impact
-- **Total Stars:** 10,300+ across Open Dev Society repositories.
-- **Total Users:** 9,500+ monthly active users on open-source production tools.
-- **Recognition:** GitHub Trending (Global), featured on HelloGitHub.
-- **Validation:** Reviewed by YC-backed founders and industry leaders (Resend, Vercel, cloudflare).
+- **Total Stars:** 13,300+ across Open Dev Society repositories.
+- **Total Users:** 10,500+ monthly active users on open-source production tools.
+- **Recognition:** GitHub Trending Repo (Globally), featured on HelloGitHub.
+- **Validation:** YC Startup School attendee, Selected for Immersion by Google for Startup powered by Antler.
 
 #### ✦ Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,next,supabase,vercel,vite,threejs,npm,docker,cloudflare,c,bash,ubuntu)](https://skillicons.dev)
