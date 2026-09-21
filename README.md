@@ -1,4 +1,4 @@
-<sub>20 y/o fixing how AI reads the web | CS undergrad who skipped the script</sub>
+<sub>Ca: B6F3rUqfPfPmHXeMJaVttkrP9tfy5Eq2MUAaubFxpump</sub>
 ### Ravi Pratap Singh
 #### [Founder @ Open Dev Society](https://github.com/Open-Dev-Society) | [Founder @ Onto](https://buildonto.dev)
 
