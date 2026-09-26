@@ -8,7 +8,7 @@
 | Project | Status | Impact |
 | :--- | :--- | :--- |
 | **[Onto](https://buildonto.dev)** | `v1.0-alpha` | Eliminating the "React Tax" for AI Agents. |
-| **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** | `Production` | 13,200+ Stars | 10,500+ Active Users. |
+| **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** | `Production` | 19,200+ Stars | 10,500+ Active Users. |
 | **[KineUI](https://kine-ui.vercel.app/)** | `Beta` | Spatial gesture interactions @ <16ms latency. |
 
 #### ✦ Impact
